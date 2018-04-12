@@ -1,6 +1,6 @@
 package hu.bme.mit.spaceship;
 
-//simple change in Branch Aasd
+//simple change in Branch Aasd and now THE B
 
 /**
 * A simple spaceship with two proton torpedo stores and four lasers
