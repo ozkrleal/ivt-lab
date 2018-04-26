@@ -18,8 +18,7 @@ public class GT4500 implements SpaceShip {
   }
 
   public boolean fireLaser(FiringMode firingMode) {
-    if(firingMode == FiringMode.ALL || firingMode == FiringMode.SINGLE) return true;
-    else return false;
+    return (firingMode == FiringMode.ALL || firingMode == FiringMode.SINGLE);
   }
 
   /**
